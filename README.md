@@ -1,5 +1,5 @@
 <img src="https://1.bp.blogspot.com/-lV0q_RogHz0/XyhioZEr6yI/AAAAAAAACog/aUBE3KRem1IA3y03-I5sYSLCWA_ZsHJcwCLcBGAsYHQ/s640/dfbcbdf.png" />
-http://www.greyhelmet.net/   https://www.greyhelmet.net/2020/08/03zcat-automatizarla-generacion-de.html
+https://www.ghsec.ml   https://www.ghsec.ml/2023/06/pyscan-un-simple-escander-de-puertos.html
 
 # Pyscan v.0.8 By: @Killerpop
 
